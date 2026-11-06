@@ -1,0 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+
+Host: mir.dental
+Sitemap: https://mir.dental/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
