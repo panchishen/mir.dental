@@ -7,11 +7,11 @@
  */
 (function () {
   var PREVIEW_HTML =
-    '<div class="preview-note" style="padding:32px;text-align:center;font-size:18px;line-height:1.5">' +
+    '<div class="preview-note" style="padding:32px;text-align:center;font-size:18px;line-height:1.5;color:#0e1130">' +
     '<p style="margin:0 0 12px"><b>Демо-версия сайта</b></p>' +
     '<p style="margin:0 0 16px">Онлайн-запись в&nbsp;этой копии отключена. Записаться на&nbsp;приём можно по&nbsp;телефону:</p>' +
-    '<p style="margin:0 0 8px"><a href="tel:+74952600001">+7&nbsp;(495)&nbsp;260-00-01</a></p>' +
-    '<p style="margin:0"><a href="tel:+79300360001">+7&nbsp;(930)&nbsp;036-00-01</a></p>' +
+    '<p style="margin:0 0 8px"><a style="color:#d6336c;font-weight:700;text-decoration:none;white-space:nowrap" href="tel:+74952600001">+7&nbsp;(495)&nbsp;260-00-01</a></p>' +
+    '<p style="margin:0"><a style="color:#d6336c;font-weight:700;text-decoration:none;white-space:nowrap" href="tel:+79300360001">+7&nbsp;(930)&nbsp;036-00-01</a></p>' +
     '</div>';
 
   function isBlocked(url) {
